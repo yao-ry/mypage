@@ -1,7 +1,14 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 801px;
+  min-height: 879px;
 }
 
 .u-section-1 .u-text-1 {
-  margin: 17px 0 60px;
+  margin: 17px 13px 60px -13px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }

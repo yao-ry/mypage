@@ -21,7 +21,7 @@
 
 .u-section-1 .u-image-1 {
   background-position: 50% 50%;
-  background-image: url("images/466c4e951a69c733e1fd299443e68c.jpg");
+  background-image: url("images/IMG_3811.jpg");
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -45,12 +45,18 @@
 }
 
 .u-section-1 .u-btn-1 {
+  background-image: none;
+  letter-spacing: 0px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
   line-height: 1;
   margin-top: 0;
   padding: 0;
 }
 
-.u-section-1 .u-btn-2 {
+.u-section-1 .u-btn-3 {
   line-height: 2;
   padding: 0;
 }
@@ -73,10 +79,14 @@
   }
 
   .u-section-1 .u-btn-1 {
-    border-style: none none solid;
+    text-decoration: none solid rgb(45, 64, 131);
   }
 
   .u-section-1 .u-btn-2 {
+    border-style: none none solid;
+  }
+
+  .u-section-1 .u-btn-3 {
     border-style: solid;
     line-height: 1;
   }
@@ -194,29 +204,25 @@
   padding: 0;
 }
 
+.u-section-2 .u-btn-4 {
+  background-image: none;
+  padding: 0;
+}
+
 @media (max-width: 575px) {
   .u-section-2 .u-text-1 {
     width: auto;
     margin-top: 0;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 217px;
-}
-
-.u-section-3 .u-image-1 {
-  height: 217px;
-  margin-top: -37px;
-  margin-bottom: 37px;
-  object-position: 0% 50%;
-}.u-section-4 .u-sheet-1 {
   min-height: 309px;
 }
 
-.u-section-4 .u-text-1 {
+.u-section-3 .u-text-1 {
   margin: 0;
 }
 
-.u-section-4 .u-table-1 {
+.u-section-3 .u-table-1 {
   margin-top: -13px;
   margin-bottom: 56px;
 }
@@ -225,23 +231,39 @@
   height: 46px;
 }
 
-.u-section-4 .u-table-body-1 {
+.u-section-3 .u-table-body-1 {
   line-height: 1.6;
 }
 
-.u-section-4 .u-table-cell-1 {
+.u-section-3 .u-table-cell-1 {
   font-size: 1.125rem;
 }
 
-.u-section-4 .u-table-cell-2 {
+.u-section-3 .u-table-cell-2 {
   font-size: 1.125rem;
 }
 
-.u-section-4 .u-table-cell-3 {
+.u-section-3 .u-table-cell-3 {
   font-size: 1.125rem;
 }
 
-.u-section-4 .u-table-cell-4 {
+.u-section-3 .u-table-cell-4 {
+  font-size: 1.125rem;
+}
+
+.u-section-3 .u-table-cell-5 {
+  font-size: 1.125rem;
+}
+
+.u-section-3 .u-table-cell-6 {
+  font-size: 1.125rem;
+}
+
+.u-section-3 .u-table-cell-7 {
+  font-size: 1.125rem;
+}
+
+.u-section-3 .u-table-cell-8 {
   font-size: 1.125rem;
 }
 
@@ -250,7 +272,7 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-4 .u-text-1 {
+  .u-section-3 .u-text-1 {
     margin-top: 60px;
   }
 }
