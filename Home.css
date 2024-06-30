@@ -182,11 +182,11 @@
     margin-top: 17px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 617px;
+  min-height: 657px;
 }
 
 .u-section-2 .u-text-1 {
-  margin: 50px 0 24px;
+  margin: 50px -10px 24px 10px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -204,9 +204,11 @@
   padding: 0;
 }
 
-.u-section-2 .u-btn-4 {
-  background-image: none;
-  padding: 0;
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 575px) {
