@@ -20,8 +20,8 @@
 }
 
 .u-section-1 .u-image-1 {
-  background-position: 50% 50%;
-  background-image: url("images/IMG_3811.jpg");
+  background-position: 50% 37.01%;
+  background-image: url("images/IMG_1392.JPG");
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -182,18 +182,12 @@
     margin-top: 17px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 518px;
+  min-height: 753px;
+  margin-bottom: 0;
 }
 
 .u-section-2 .u-text-1 {
-  margin: 50px -10px 60px 10px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-2 .u-text-1 {
-    margin-left: 0;
-    margin-right: 0;
-  }
+  margin: 55px 0;
 }
 
 @media (max-width: 575px) {
@@ -232,6 +226,7 @@
 
 .u-section-3 .u-btn-1 {
   background-image: none;
+  border-style: solid;
   padding: 0;
 }
 
@@ -241,6 +236,12 @@
 
 .u-section-3 .u-table-cell-4 {
   font-size: 1.125rem;
+}
+
+.u-section-3 .u-btn-2 {
+  background-image: none;
+  border-style: solid;
+  padding: 0;
 }
 
 .u-section-3 .u-table-cell-5 {
