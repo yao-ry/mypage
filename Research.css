@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/WechatIMG511.jpeg");
+  background-image: url("/images/WechatIMG511.jpeg");
   background-position: 50% 59.51%;
 }
 
@@ -108,6 +108,11 @@
 }
 
 .u-section-2 .u-btn-15 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-16 {
   background-image: none;
   padding: 0;
 }
