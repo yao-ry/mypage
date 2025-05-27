@@ -45046,13 +45046,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 65px;
+  min-height: 64px;
 }
 
 .u-footer .u-text-1 {
   font-weight: 700;
   width: 631px;
-  margin: 21px auto 0;
+  margin: 20px auto 0;
 }
 
 .u-footer .u-social-icons-1 {
@@ -45061,7 +45061,7 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 109px;
   min-width: 68px;
   white-space: nowrap;
-  margin: -21px 0 19px auto;
+  margin: -21px 0 20px auto;
 }
 
 .u-footer .u-icon-3 {
@@ -45104,19 +45104,19 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 767px) {
   .u-footer .u-sheet-1 {
-    min-height: 65px;
+    min-height: 91px;
   }
 
   .u-footer .u-text-1 {
-    margin-top: 42px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-top: 34px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-footer .u-social-icons-1 {
-    margin-top: -23px;
-    margin-right: 52px;
-    margin-bottom: 42px;
+    margin-top: -8px;
+    margin-right: 0;
+    margin-bottom: 18px;
   }
 }
 @media (max-width: 575px) {
@@ -45126,8 +45126,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-text-1 {
     margin-top: 19px;
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-footer .u-social-icons-1 {
