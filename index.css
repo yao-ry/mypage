@@ -465,6 +465,11 @@
   font-size: 1.125rem;
 }
 
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-3 .u-table-cell-3 {
   font-size: 1.125rem;
 }
@@ -497,12 +502,6 @@
   font-size: 1.125rem;
 }
 
-.u-section-3 .u-btn-1 {
-  background-image: none;
-  border-style: solid;
-  padding: 0;
-}
-
 .u-section-3 .u-table-cell-11 {
   font-size: 1.125rem;
 }
@@ -512,6 +511,20 @@
 }
 
 .u-section-3 .u-btn-2 {
+  background-image: none;
+  border-style: solid;
+  padding: 0;
+}
+
+.u-section-3 .u-table-cell-13 {
+  font-size: 1.125rem;
+}
+
+.u-section-3 .u-table-cell-14 {
+  font-size: 1.125rem;
+}
+
+.u-section-3 .u-btn-3 {
   background-image: none;
   border-style: solid;
   padding: 0;
